@@ -1,0 +1,49 @@
+/* --------------------------------------------------
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+ul#cms-menu-bar {
+	position:fixed;
+	bottom:0;
+    background: #000;
+	width: 100%;
+    height: 40px;
+    text-align: left;
+	padding:0;
+	margin:0;
+	list-style:none;
+	z-index:100;
+}
+
+ul#cms-menu-bar li {
+	float:left;
+}
+
+ul#cms-menu-bar li a {
+	color:#fcf347;
+	display:inline-block;
+	padding:8px 15px;
+}
+
+ul#cms-menu-bar li a:hover {
+	background:#333;
+}
+
+/* -----------------------------------------
+   Page Name 1
+----------------------------------------- */
+
+
+
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */
+
